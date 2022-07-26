@@ -6,9 +6,11 @@ This directory is a brief example of a [Hugo](https://gohugo.io/) app that can b
 
 Deploy your own Hugo project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hugo&template=hugo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Humble-Xiang/DoIt-vercel-hugo-template)
 
-_Live Example: https://hugo-template.vercel.app_
+_Live Example: 
+
+[![Live Example](https://website-card-embed.vercel.app/api/screenshot?url=https://humble-blog.vercel.app/)](https://humble-blog.vercel.app/)
 
 ### How We Created This Example
 
