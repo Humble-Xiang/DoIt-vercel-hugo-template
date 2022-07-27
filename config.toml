@@ -476,9 +476,9 @@ enableEmoji = true
       # see https://ogp.me/
       [params.page.share.ogimage]
         enable = true
-        # 服务地址
+        # og-image 服务地址
         serverURL = "https://og-image-demo.vercel.app/"
-        # 文章标题上面的默认图片，文章存在 featuredImage 时优先使用 featuredImage
+        # 文章分享时的默认图片，文章存在 featuredImage 时优先使用 featuredImage
         defaultImage = "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg"
       Twitter = true
       Facebook = true
