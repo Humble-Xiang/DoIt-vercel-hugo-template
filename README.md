@@ -10,7 +10,7 @@ Deploy your own Hugo project with Vercel.
 
 _Live Example: 
 
-[![Live Example](https://website-card-embed.humblex.top/api/screenshot?url=https://humble-blog.humblex.top/)](https://humble-blog.humblex.top/)
+[![Live Example](https://website-card-embed.humblex.top/api/screenshot?url=https://blog.humblex.top/)](https://blog.humblex.top/)
 
 ### How We Created This Example
 
